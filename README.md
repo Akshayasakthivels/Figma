@@ -183,6 +183,8 @@ color: black;
 ![Alt text](<Screenshot (8).png>)
 ![Alt text](<Screenshot (9).png>)
 ![Alt text](<Screenshot (10).png>)
+![Screenshot 2023-12-27 140340](https://github.com/Akshayasakthivels/Figma/assets/144870561/51a563d8-516f-4ffd-8167-9450981eebe1)
+
 
 
 ## RESULT:
